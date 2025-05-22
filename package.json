@@ -1,5 +1,5 @@
 {
-  "name": "date-fns",
+  "name": "@online/date-fns",
   "version": "4.1.0",
   "contributors": [
     "Sasha Koss <koss@nocorp.me>",
@@ -7,7 +7,7 @@
   ],
   "license": "MIT",
   "description": "Modern JavaScript date utility library",
-  "repository": "https://github.com/date-fns/date-fns",
+  "repository": "https://github.com/2gis/date-fns",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/kossnocorp"
