@@ -1,6 +1,6 @@
 {
   "name": "@online/date-fns",
-  "version": "4.1.1",
+  "version": "4.1.3",
   "contributors": [
     "Sasha Koss <koss@nocorp.me>",
     "Lesha Koss <regiusprod@gmail.com>"
@@ -7060,6 +7060,16 @@
         "default": "./locale/ko.js"
       }
     },
+    "./locale/ky": {
+      "require": {
+        "types": "./locale/ky.d.cts",
+        "default": "./locale/ky.cjs"
+      },
+      "import": {
+        "types": "./locale/ky.d.ts",
+        "default": "./locale/ky.js"
+      }
+    },
     "./locale/lb": {
       "require": {
         "types": "./locale/lb.d.cts",
@@ -7318,6 +7328,16 @@
       "import": {
         "types": "./locale/te.d.ts",
         "default": "./locale/te.js"
+      }
+    },
+    "./locale/tg": {
+      "require": {
+        "types": "./locale/tg.d.cts",
+        "default": "./locale/tg.cjs"
+      },
+      "import": {
+        "types": "./locale/tg.d.ts",
+        "default": "./locale/tg.js"
       }
     },
     "./locale/th": {
